@@ -1252,6 +1252,12 @@ Container Styling
     grid-column: initial;
     text-align: left;
   }
+
+  .contact__img img{
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+  }
   .home__img {
     order: 1;
     justify-self: center;
