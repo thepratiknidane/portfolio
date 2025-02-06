@@ -29,7 +29,7 @@
         <li>HTML, CSS, JavaScript</li>
     </ul>
     <h2>Live Demo</h2>
-    <p>Check out the live version here: <a href="[YOUR_PORTFOLIO_LINK](https://thepratiknidane.github.io/portfolio/)" target="_blank">View Portfolio</a></p>
+    <p>Check out the live version here: <a href="https://thepratiknidane.github.io/portfolio/" target="_blank">View Portfolio</a></p>
     <h2>Connect with Me</h2>
     <ul>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pratiknidane/" target="_blank">Pratik Nidane</a></li>
