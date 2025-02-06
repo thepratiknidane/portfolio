@@ -34,7 +34,7 @@
     <ul>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pratiknidane/" target="_blank">Pratik Nidane</a></li>
         <li><strong>Whats App:</strong> <a href="https://wa.me/918087977547" target="_blank">(+91)8087977547</a></li>
-        <li><strong>Email:</strong> <a href="mailto:pratiknidane@outlook.com">Pratiknidane@outlook.com</a></li>
+        <li><strong>Email:</strong> <a href="mailto:pratiknidane@outlook.com" target="_blank">Pratiknidane@outlook.com</a></li>
     </ul>
     <p>Feel free to contribute or provide feedback! 🚀</p>
 
