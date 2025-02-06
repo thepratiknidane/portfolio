@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pratik Nidane - Portfolio</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2 { color: #2c3e50; }
-        code { background: #f4f4f4; padding: 5px; border-radius: 5px; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
-        a { color: #3498db; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-    </style>
-</head>
 <body>
     <h1>Pratik Nidane - Portfolio</h1>
     <h2>Overview</h2>
@@ -42,16 +27,14 @@
     <h2>Technologies Used</h2>
     <ul>
         <li>HTML, CSS, JavaScript</li>
-        <li>React.js (if applicable)</li>
-        <li>Bootstrap/Tailwind (if applicable)</li>
     </ul>
     <h2>Live Demo</h2>
-    <p>Check out the live version here: <a href="YOUR_PORTFOLIO_LINK" target="_blank">View Portfolio</a></p>
+    <p>Check out the live version here: <a href="[YOUR_PORTFOLIO_LINK](https://thepratiknidane.github.io/portfolio/)" target="_blank">View Portfolio</a></p>
     <h2>Connect with Me</h2>
     <ul>
-        <li><strong>LinkedIn:</strong> <a href="YOUR_LINKEDIN_PROFILE" target="_blank">Your LinkedIn</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/PratikNidane" target="_blank">github.com/PratikNidane</a></li>
-        <li><strong>Email:</strong> <a href="mailto:YOUR_EMAIL">Your Email</a></li>
+        <li><strong>LinkedIn:</strong> <a href="[YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/pratiknidane/)" target="_blank">Pratik Nidane</a></li>
+        <li><strong>Whats App:</strong> <a href="https://wa.me/918087977547" target="_blank">(+91)8087977547</a></li>
+        <li><strong>Email:</strong> <a href="mailto:pratiknidane@outlook.com">Your Email</a></li>
     </ul>
     <p>Feel free to contribute or provide feedback! 🚀</p>
 
