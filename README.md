@@ -32,9 +32,9 @@
     <p>Check out the live version here: <a href="[YOUR_PORTFOLIO_LINK](https://thepratiknidane.github.io/portfolio/)" target="_blank">View Portfolio</a></p>
     <h2>Connect with Me</h2>
     <ul>
-        <li><strong>LinkedIn:</strong> <a href="[YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/pratiknidane/)" target="_blank">Pratik Nidane</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pratiknidane/" target="_blank">Pratik Nidane</a></li>
         <li><strong>Whats App:</strong> <a href="https://wa.me/918087977547" target="_blank">(+91)8087977547</a></li>
-        <li><strong>Email:</strong> <a href="mailto:pratiknidane@outlook.com">Your Email</a></li>
+        <li><strong>Email:</strong> <a href="mailto:pratiknidane@outlook.com">Pratiknidane@outlook.com</a></li>
     </ul>
     <p>Feel free to contribute or provide feedback! 🚀</p>
 
