@@ -18,7 +18,7 @@
     <pre>
     <code>
     # Clone the repository
-    git clone https://github.com/PratikNidane/portfolio.git
+    git clone https://github.com/thepratiknidane/portfolio.git
     # Navigate to the project directory
     cd portfolio
     # Open index.html in a browser
